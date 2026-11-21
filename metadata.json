@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Motion TV — Dragon Nine Protocol",
+  "description": "An archival declaration, participatory governance charter, and open-knowledge commons for the Fluid Motion TV Dragon Nine Protocol Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

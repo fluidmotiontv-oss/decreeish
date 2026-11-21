@@ -1,0 +1,17 @@
+{
+  "name": "Fluid Motion TV — Dragon Nine Protocol",
+  "short_name": "Fluid Motion TV",
+  "description": "Archival declaration, participatory governance charter, and open-knowledge commons at fluidmotiontv.site.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
